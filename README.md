@@ -1,4 +1,9 @@
 # parfectscrollbar
+Call for parfectscrollbar.
+http://perfect-scrollbar.css and
+http://perfect-scrollbar.jquery.min.js
+
+
 
 How to use css.
 .your-element{
