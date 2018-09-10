@@ -19,7 +19,7 @@ Color for any theme value.
 }
 
 How to use js.
-jQuery(document).ready(function($){
+$(document).ready(function($){
 
      $("html").perfectScrollbar();
      
